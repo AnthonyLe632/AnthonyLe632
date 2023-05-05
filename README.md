@@ -1,16 +1,18 @@
-### Hi there 👋
+### :smiley: Hello everyone, my name is Long, this is my Github :smiley:
+<br> <br />
+:notebook: Short introduction of me: 
+<br> <br />
+:flags: Hobbies:
+<br /> 
+* Reading :book:
+** My favourite book: 
+* Hiking :walking:
+* Learning languages 
 
-<!--
-**AnthonyLe632/AnthonyLe632** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:godmode: Skills:
+* Python
+* Power BI
+* SQL
+* Microsoft Excel
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:computer: My projects

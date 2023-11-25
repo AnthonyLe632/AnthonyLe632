@@ -20,4 +20,4 @@ I am a self-starter and am taking steps steadily and gradually to advance my ski
 * Power BI
 * SQL
 * Microsoft Excel
-
+* dbt

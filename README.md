@@ -2,7 +2,7 @@
 <br> <br />
 ### 📓 Short introduction: 
 
-I am a fresh graduate student majoring in International Business. I love incorporating data into Business and Decision-making, especially in the field of E-commerce & Digital Marketing. 
+As a passionate Data Analyst, I love incorporating data into Business and Decision-making, especially in the field of E-commerce & Digital Marketing. 
 
 I am a self-starter and am taking steps steadily and gradually to advance my skills and my professional. <br />
 ### :flags: Hobbies:
